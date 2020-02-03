@@ -11,6 +11,6 @@ class StudentTableSeeder extends Seeder
      */
     public function run()
     {
-        //
+        
     }
 }
